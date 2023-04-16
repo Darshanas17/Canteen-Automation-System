@@ -2,22 +2,22 @@
 
 
 
-REQUIREMENTs
+# REQUIREMENTs
 
-  Operating System : Windows 8 and above
+  **Operating System :** Windows 8 and above
 
-  Software Requirements : XAAMP, Version 7.3 or above
+  **Software Requirements :** XAAMP, Version 7.3 or above
 
-  IDE(Integrated Development Environment) : Visual Studio
+  **IDE(Integrated Development Environment) :** Visual Studio
   
 
 
 
 
-TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
   HTML
-  
+ 
   CSS
   
   BOOTSTRAP
@@ -29,3 +29,9 @@ TECHNOLOGIES USED
   AJAX 
   
   JQUERY
+  
+  
+  # Admin Dashboard
+  
+  **Admin credentials:** admin
+  **Admin Password:** 123456
