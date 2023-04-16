@@ -2,7 +2,7 @@
 
 
 
-# REQUIREMENTs
+### REQUIREMENTs
 
   **Operating System :** Windows 8 and above
 
@@ -14,24 +14,25 @@
 
 
 
-# TECHNOLOGIES USED
+### TECHNOLOGIES USED
 
-  HTML
+  - HTML
  
-  CSS
+  - CSS
   
-  BOOTSTRAP
+  - BOOTSTRAP
   
-  PHP
+  - PHP
   
-  SQL
+  - SQL
   
-  AJAX 
+  - AJAX 
   
-  JQUERY
+  - JQUERY
   
   
-  # Admin Dashboard
+  ### Admin Dashboard
   
-  **Admin credentials:** admin
-  **Admin Password:** 123456
+  > **Admin credentials:** admin
+  > 
+  > **Admin Password:** 123456
