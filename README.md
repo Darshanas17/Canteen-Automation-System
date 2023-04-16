@@ -31,6 +31,10 @@
   - JQUERY
   
   
+  ### Installation
+  
+  Just create new database in phpmyadmin and import SQL file which is located in SQL/ directory.
+  
   ### Admin Dashboard
   
   > **Admin credentials:** admin
