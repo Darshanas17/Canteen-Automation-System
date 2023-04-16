@@ -33,7 +33,7 @@
   
   ### Installation
   
-  Just create new database in phpmyadmin and import SQL file which is located in SQL/ directory.
+  Just create new database in phpmyadmin and import SQL file which is located in <code> SQL/ </code> directory.
   
   ### Admin Dashboard
   
